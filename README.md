@@ -51,10 +51,19 @@ TAIWAN_PRESIDENTIAL_ELECTION_2024/
 └── README.md
 ```
 
+## 🚀  Live Demo (Hugging Face Spaces)
+
+You can try out the interactive version of this app deployed on Hugging Face Spaces:
+
+🔗 **[Launch the Octopus Village Finder 🔍](https://huggingface.co/spaces/AustinKang66666/taiwan_presidential_election_2024)**
+
+No local setup needed — explore directly in your browser!
+
+
 ## 🧪 Environment Setup (environment.yml)
 
 ```yaml
-name: taiwan_presidential_election_2024
+name: taiwan_presidental_election_2024
 channels:
   - conda-forge
 dependencies:
@@ -73,4 +82,3 @@ dependencies:
 * Input the county, town, and village you want to investigate.
 * The app will query the dataset and display the matching village's vote share and cosine similarity index.
 * The national vote distribution percentages for each candidate are also displayed on the interface.
-
