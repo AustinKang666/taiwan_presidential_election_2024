@@ -54,7 +54,7 @@ TAIWAN_PRESIDENTIAL_ELECTION_2024/
 ## 🧪 Environment Setup (environment.yml)
 
 ```yaml
-name: taiwan_presidental_election_2024
+name: taiwan_presidential_election_2024
 channels:
   - conda-forge
 dependencies:
@@ -73,3 +73,4 @@ dependencies:
 * Input the county, town, and village you want to investigate.
 * The app will query the dataset and display the matching village's vote share and cosine similarity index.
 * The national vote distribution percentages for each candidate are also displayed on the interface.
+
