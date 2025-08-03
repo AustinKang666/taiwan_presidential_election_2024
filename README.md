@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project, “Find the Octopus Village,” analyzes the 2024 Presidential Election polling station data from [Taiwan's Central Election Commission (CEC)](https://db.cec.gov.tw/ElectTable/Election/ElecTickets?dataType=tickets&typeId=ELC&subjectId=P0&legisId=00&themeId=4d83db17c1707e3defae5dc4d4e9c800&dataLevel=N&prvCode=00&cityCode=000&areaCode=000&deptCode=000&liCode=0000). We compute the vote distribution across 7,700 villages in Taiwan, comparing each village's vote share to the national distribution, and highlight anomalies often reported by media outlets as “octopus villages” — areas where voting patterns appear statistically improbable.
+This project, “Find the Octopus Village,” analyzes the 2024 Presidential Election polling station data from [Taiwan's Central Election Commission (CEC)](https://db.cec.gov.tw/ElecTable/Election/ElecTickets?dataType=tickets&typeId=ELC&subjectId=P0&legisId=00&themeId=4d83db17c1707e3defae5dc4d4e9c800&dataLevel=N&prvCode=00&cityCode=000&areaCode=00&deptCode=000&liCode=0000). We compute the vote distribution across 7,700 villages in Taiwan, comparing each village's vote share to the national distribution, and highlight anomalies often reported by media outlets as “octopus villages” — areas where voting patterns appear statistically improbable.
 
 Two key investigative questions:
 
